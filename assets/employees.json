@@ -1,0 +1,48 @@
+{
+    "employees": [
+        {
+            "Employee_No": "0001",
+            "NAME": "Giorgi Samarguliani",
+            "DEPARTMENT": "Executive",
+            "DESIGNATION": "CEO",
+            "EMAIL": "gs@bo.ge",
+            "MOBILE": 595934493,
+            "IMAGE": "img/giorgi.jpeg",
+            "LINKEDIN": "https://www.linkedin.com/in/giorgi-samarguliani/",
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0002",
+            "NAME": "Nikoloz Sabiashvili",
+            "DEPARTMENT": "PR",
+            "DESIGNATION": "PR",
+            "EMAIL": "ns@bo.ge",
+            "MOBILE": 558380838,
+            "IMAGE": "img/nikoloz.jpeg",
+            "LINKEDIN": "https://www.linkedin.com/in/nikoloz-sabiashvili/",
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0003",
+            "NAME": "Bekar Gurgenidze",
+            "DEPARTMENT": "Digitalization",
+            "DESIGNATION": "Advisor",
+            "EMAIL": "bg@bo.ge",
+            "MOBILE": 558586658,
+            "IMAGE": "img/bo.png",
+            "LINKEDIN": "https://www.linkedin.com/in/bekar-gurgenidze/",
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0004",
+            "NAME": "Vato Koberidze",
+            "DEPARTMENT": "Digitalization",
+            "DESIGNATION": "Advisor",
+            "EMAIL": "vk@bo.ge",
+            "MOBILE": 558584458,
+            "IMAGE": "img/vato.jpeg",
+            "LINKEDIN": "https://www.linkedin.com/in/vakhtangi-koberidze/",
+            "TOTAL": 1
+        }
+    ]
+}
