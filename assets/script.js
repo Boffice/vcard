@@ -35,13 +35,13 @@ const matchEid = (data) => {
 
 //this function will display the fetched data on html
 const showDataOnHtml = (linkedin, img, name, phone, email, department, position) => {
+    document.title = name; // Change the page title with the employee's name
     document.getElementById("headimage").src = img;
     document.getElementById("headlinkedin").href = linkedin;
     document.getElementById("headtitle").innerHTML = name;
     document.getElementById("headposition").innerHTML = position;
     document.getElementById("headphone").href = `tel:${phone}`;
     document.getElementById("heademail").href = `mailto:${email}`;
-
     document.getElementById("bodyphone").href = `tel:${phone}`;
     document.getElementById("bodyemail").href = `mailto:${email}`;
     document.getElementById("bodyphone").innerHTML = phone;
