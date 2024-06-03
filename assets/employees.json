@@ -43,6 +43,17 @@
             "IMAGE": "img/vato.jpeg",
             "LINKEDIN": "https://www.linkedin.com/in/vakhtangi-koberidze/",
             "TOTAL": 1
+        },
+        {
+            "Employee_No": "ZE5WAF",
+            "NAME": "Davit Kikvadze",
+            "DEPARTMENT": "Digitalization",
+            "DESIGNATION": "Advisor",
+            "EMAIL": "dk@bo.ge",
+            "MOBILE": 514586658,
+            "IMAGE": "img/davit.jpg",
+            "LINKEDIN": "https://www.linkedin.com/in/david-kikvadze/",
+            "TOTAL": 1
         }
     ]
 }
