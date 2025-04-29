@@ -66,6 +66,17 @@
             "IMAGE": "img/ruska.jpg",
             "LINKEDIN": "https://www.linkedin.com/in/giorgimacharashvili/",
             "TOTAL": 1
+        },
+        {
+            "Employee_No": "213412DSA",
+            "NAME": "Tornike Bukhrashvili",
+            "DEPARTMENT": "Digitalization",
+            "DESIGNATION": "Advisor",
+            "EMAIL": "tbukhrashvili@bo.ge",
+            "MOBILE": "599301367",
+            "IMAGE": "img/tornike.jpg",
+            "LINKEDIN": "https://www.linkedin.com/in/tornike-bukhrashvili-7253881ba/",
+            "TOTAL": 1
         }
     ]
 }
