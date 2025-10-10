@@ -36,7 +36,7 @@
         },
         {
             "Employee_No": "21dasd",
-            "NAME": "Goga Tavadze",
+            "NAME": "Mariam  Tavadze",
             "DEPARTMENT": "Digitalization",
             "DESIGNATION": "Advisor",
             "EMAIL": "gtavadze@bo.ge",
@@ -69,13 +69,13 @@
         },
         {
             "Employee_No": "213412DSA",
-            "NAME": "Tornike Bukhrashvili",
-            "DEPARTMENT": "Digitalization",
+            "NAME": "Mariami Didebashvili",
+            "DEPARTMENT": "Content Manager",
             "DESIGNATION": "Advisor",
-            "EMAIL": "tbukhrashvili@bo.ge",
-            "MOBILE": "599301367",
-            "IMAGE": "img/tornike.jpg",
-            "LINKEDIN": "https://www.linkedin.com/in/tornike-bukhrashvili-7253881ba/",
+            "EMAIL": "md@bo.ge",
+            "MOBILE": "591306064",
+            "IMAGE": "img/mariam.jpg",
+            "LINKEDIN": "https://bo.ge",
             "TOTAL": 1
         }
     ]
